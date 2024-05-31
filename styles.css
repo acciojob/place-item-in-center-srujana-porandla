@@ -3,11 +3,12 @@
 .holder{
 	width:100vw;
 	height:100vh;
+	align-items:center;
 	display:flex;
 	justify-content:center;
 }
 .item-1{
-	align-items:center;
+	
 	width:100px;
 	height:100px;
 	background-color:red;
